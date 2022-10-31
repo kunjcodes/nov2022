@@ -1,0 +1,24 @@
+<html>
+
+<head>
+    <title> &#10084; </title>
+    <link href="./main.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/x-icon" href="https://img.icons8.com/ios-filled/50/000000/d.png">
+</head>
+
+<body>
+    <input class="c-checkbox" type="checkbox" id="checkbox">
+    <div class="c-formContainer">
+        <form class="c-form" action="javascript:getMessage()">
+            <input class="c-form__input" placeholder="Enter the code for the next clue!" type="text" pattern="[0-9]{4}$"
+                required id="code">
+            <label class="c-form__buttonLabel">
+                <input id="button" class="c-form__button" type="submit" value="&#9813;">
+            </label>
+            <label class="c-form__toggle" for="checkbox" data-title="Clue Code"></label>
+        </form>
+    </div>
+    <script src="./index.js"></script>
+</body>
+
+</html>

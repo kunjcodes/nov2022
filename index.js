@@ -12,8 +12,8 @@ function getMessage() {
             "message": "A mutual? Talk to Him/Her. Get next Clue?",
             "nextcode": "8249", "food": "", "name": "Deep"
         },
-        838748: {
-            "message": "Babeeeeeeeee, I am sorrryyyyyyyyy!!!! I will learn to keep my head calm and anger in control. Please talk to me?",
+        8387: {
+            "message": "Babeeeeeeeee, I am sorrryyyyyyyyy!!!! I will learn to keep my head calm and anger in control. Please talk to me? Sorry for not replying, was just fixing this here. LOVE YOU!!",
             "nextcode": "", "food": "", "name": ""
         },
         8249: { "name": "Aditi", "message": "Close Friend. Understanding. I've talked to them. Go meet HE/SHE and ask for next clue?", "nextcode": "1825", "food": "Have Croissant and Coffee when you meet." },

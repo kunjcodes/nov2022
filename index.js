@@ -12,6 +12,10 @@ function getMessage() {
             "message": "A mutual? Talk to Him/Her. Get next Clue?",
             "nextcode": "8249", "food": "", "name": "Deep"
         },
+        838748: {
+            "message": "Babeeeeeeeee, I am sorrryyyyyyyyy!!!! I will learn to keep my head calm and anger in control. Please talk to me?",
+            "nextcode": "", "food": "", "name": ""
+        },
         8249: { "name": "Aditi", "message": "Close Friend. Understanding. I've talked to them. Go meet HE/SHE and ask for next clue?", "nextcode": "1825", "food": "Have Croissant and Coffee when you meet." },
         1825: { "name": "Manali", "message": "One of the inner circle friend. Someone who shares the name with someone close to me", "nextcode": "4248", "food": "Go have aunty ke waha ka vadapav" },
         4248: { "name": "Komal", "message": "Special, but far, still there for you, why would you beat her up on street with chappal?", "nextcode": "4188", "food": "" },
